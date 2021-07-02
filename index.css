@@ -1,0 +1,85 @@
+html{
+    display: block;
+    background : -webkit-linear-gradient(#700eb1fa 0%,gold 100%);
+    font-size: 25px;
+    color: white;    
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+    display: inline 0 auto;
+    border-style: double;
+    border-radius: 10px;
+    border-color: rgb(147, 255, 6);
+    padding: 3px;
+    margin:3px 10px;
+    font-variant: small-caps;
+    background: -webkit-radial-gradient(#081f52 0%, #f0cd08 100%);   
+}
+h2{
+    font-variant: small-caps;
+}
+#d1>ol>li{
+display: inline-block;
+border-style: outset;
+border-radius:10px ;
+border-color: gold;
+padding: 5px;
+margin:5px;
+border-radius: 2%;
+font-style: oblique;
+}
+#d1>p{
+    font-variant-caps: petite-caps;
+    font-weight: 700;
+}
+#d2>ol>details>table{
+    
+    font-variant: inherit;
+    display: inline-block;
+    border: rgb(32, 32, 179) 4px;
+    border-style: inset;
+    font-size: 30px;
+    color:rgb(22, 20, 20);
+}
+#d2>p{
+font-size: 50px;
+color: rgb(100, 11, 11);
+}
+#d2>ol>li
+{
+font-size: 38px;
+color:rgb(32, 32, 179)
+}
+#d2>ol>details>summary{
+font-size: 30px;    
+}
+body>p>a{
+    font-style: italic;
+    font-size: 100%;
+}
+body>section>p{
+display: inline;
+border: rgb(127, 255, 0) 3px solid;
+margin: 5px;
+background-color: rgb(72, 27, 197);
+padding: 4px;
+}
+#d3>img{
+    display: inline-block;
+    border-style: solid;
+    border-color:rgb(127,255,0);
+    border-width: 3px;
+    margin-top: 3px;
+    margin-right:36px;
+    margin-left: 50px;
+    padding: 2px;
+    
+}
+.last>p{
+    background: -webkit-repeating-radial-gradient(#f7146b 0%, #616268 100%);
+    border-radius: 5px;
+}
+h3{
+    color:rgb(160, 3, 24)
+}
